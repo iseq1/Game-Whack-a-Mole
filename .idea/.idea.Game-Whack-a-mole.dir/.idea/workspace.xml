@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16574ebf-8daf-4003-941b-70bd1c3e6133" name="Changes" comment="" />
+    <list default="true" id="16574ebf-8daf-4003-941b-70bd1c3e6133" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Game-Whack-a-mole.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game-Whack-a-mole.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667220905024</updated>
-      <workItem from="1667220915255" duration="970000" />
+      <workItem from="1667220915255" duration="1605000" />
     </task>
     <servers />
   </component>
